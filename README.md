@@ -5,9 +5,10 @@
 <br>
 
 <div> 
-  <a href = "mailto:bvitoriaviana@gmail.com"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
-  <a href="https://www.linkedin.com/in/biancviana/" target="_blank"> <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" /> </a> 
+  <a href = "mailto:bvitoriaviana@gmail.com"> <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" /> </a> 
+  <a href="https://www.linkedin.com/in/biancviana/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
 </div>
+
 
 <br><br>
 
