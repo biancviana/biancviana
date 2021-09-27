@@ -9,6 +9,10 @@
   <a href="https://www.linkedin.com/in/biancviana/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
 </div>
 
+<div>
+  <a href="https://www.linkedin.com/in/biancviana/" target="_blank"> <img height= "26" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+</div>
+
 
 <br><br>
 
