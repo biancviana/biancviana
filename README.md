@@ -1,33 +1,30 @@
 <br>
 
-<h1> Oi, Bianca Viana aqui! </h1>
+<h2> Oi, Bianca Viana aqui! </h2>
+
+
+<div>
+  <a href="https://www.linkedin.com/in/biancviana/" target="_blank"> <img height= "26" src= "https://img.shields.io/badge/biancviana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  
+  <a href = "mailto:bvitoriaviana@gmail.com"> <img height= "26" src= "https://img.shields.io/badge/bvitoriaviana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  
+</div>
 
 <br>
 
-<div> 
-  <a href = "mailto:bvitoriaviana@gmail.com"> <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" /> </a> 
-  <a href="https://www.linkedin.com/in/biancviana/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
-</div>
+<p> 
+  Desde 2019, sou graduanda no tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pelo Instituto Federal de São Paulo (<a href="https://portal.cmp.ifsp.edu.br">IFSP</a>).
+</p>
 
-<div>
-  <a href="https://www.linkedin.com/in/biancviana/" target="_blank"> <img height= "26" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
-</div>
+##
 
-
-<br><br>
-
-<h2> Tecnologias & Ferramentas </h2>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="bianca-java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>
- 
+<p> 
+  Atualmente, venho me especializando:
+  <br>
   
-  <img align="center" alt="bianca-python" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-</div>
+  * <img height= "20" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img height= "20" src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  
+</p>
 
-<br><br><br>
+<br>
 
 ##
 <div>
