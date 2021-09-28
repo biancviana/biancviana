@@ -17,7 +17,7 @@
 ##
 
 <p> 
-  Atualmente, venho me especializando:
+  Atualmente, venho me especializando em:
   <br>
   
   * <img height= "20" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img height= "20" src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
