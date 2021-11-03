@@ -11,20 +11,13 @@
 <br>
 
 <p> 
-  Desde 2019, sou graduanda no tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pelo Instituto Federal de São Paulo (<a href="https://portal.cmp.ifsp.edu.br">IFSP</a>).
-</p>
-
-##
-
-<p> 
-  Atualmente, venho me especializando em:
-  <br>
   
-  * <img height= "20" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img height= "20" src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  * 👩🏽‍🎓 Graduanda no tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pelo Instituto Federal de São Paulo (<a href="https://portal.cmp.ifsp.edu.br">IFSP</a>).
+  
+  * 👩🏽‍💻 Desenvolvedora Back-end Java em construção.
   
 </p>
 
-<br>
 
 ##
 <div>
