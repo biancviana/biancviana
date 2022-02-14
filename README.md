@@ -14,17 +14,15 @@
   
   * 👩🏽‍🎓 Graduanda no tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pelo Instituto Federal de São Paulo (<a href="https://portal.cmp.ifsp.edu.br">IFSP</a>).
   
-  * 👩🏽‍💻 Desenvolvedora Back-end Java em construção.
+  * 👩🏽‍💻 Desenvolvedora Back-end Java em construção. 
   
 </p>
 
 
 ##
-<div>
+<div align="center">  
   <a href="https://github.com/biancviana">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=biancviana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-BR&custom_title=Bianca Viana - Estatísticas do GitHub"/>
-    
-    
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancviana&layout=compact&langs_count=7&theme=algolia&locale=pt-BR"/>
-    
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancviana&layout=compact&langs_count=7&theme=algolia&locale=pt-BR"/>    
 </div>
