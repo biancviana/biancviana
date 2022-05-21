@@ -1,6 +1,6 @@
 <br>
 
-<h2> System.out.println("Oi, sou a Bianca Viana!"); </h2>
+<h2> System.out.println("Oi, sou a Bianca Viana!"); </h2> 
 
 
 <div>
@@ -18,6 +18,14 @@
   
 </p>
 
+
+<div>
+  <img target="_blank"> <img height= "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
+  <img target="_blank"> <img height= "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />   
+  <img target="_blank"> <img height= "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
+</div>
+
+<br>
 
 ##
 <div align="center">  
