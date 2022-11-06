@@ -12,7 +12,7 @@
   
   * 👩🏽‍🎓 Graduanda no tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pelo Instituto Federal de São Paulo (<a href="https://portal.cmp.ifsp.edu.br">IFSP</a>).
   
-  * 👩🏽‍💻 Estagiária de Desenvolvimento de Software na <a href="https://escolaconquer.com.br">Escola Conquer</a>. 
+  * 👩🏽‍💻 Desenvolvedora Full Stack Júnior na <a href="https://escolaconquer.com.br">Escola Conquer</a>. 
   
 </p>
 
