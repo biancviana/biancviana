@@ -20,7 +20,7 @@
 
 <div align="center">  
   <a href="https://github.com/biancviana">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=biancviana&show_icons=true&theme=algolia&include_all_commits=trueee&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=biancviana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   &nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancviana&layout=compact&langs_count=7&theme=algolia"/>    
 </div>
